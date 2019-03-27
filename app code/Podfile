@@ -1,0 +1,15 @@
+target 'HW9' do
+    use_frameworks!
+
+platform:ios, '12.0'
+pod 'McPicker', '~> 2.0.0'
+pod 'EasyToast', '~> 2.0.2'
+pod 'SwiftSpinner', '~> 1.6.2'
+pod 'Kingfisher', '~> 4.10.1'
+pod 'Alamofire', '~> 4.7.3'
+pod 'SwiftyJSON', '~> 4.2.0'
+pod 'DLRadioButton', '~> 1.4.12'
+pod 'SnapKit', '~> 4.0.0'
+pod 'GoogleMaps'
+
+end
