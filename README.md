@@ -1,3 +1,3 @@
 EVENT SEARCH IOS APP.    
-SEE hw_9 for details.
-deleted Pods in the code
+SEE hw_9 for details.       
+Deleted Pods in the code
